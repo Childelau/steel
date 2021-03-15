@@ -1,0 +1,7 @@
+【LayuiAdmin 套餐版】
+
+内含：
+> layuiAdmin_pro: 单页版
+> layuiAdmin_std：iframe版
+> layim-v3.9.1：网页聊天（WebIM）应用解决方案
+> 说明文档
